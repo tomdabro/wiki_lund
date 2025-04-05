@@ -6,6 +6,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 2. make sure you have node.js installed
 
-3. cd your_path
-npm start
+3. ``
+   cd your_path
+   npm start
+   ``
 
