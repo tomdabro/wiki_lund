@@ -8,6 +8,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 3. ``
    cd your_path
+   ``
+   ``
    npm start
    ``
 
